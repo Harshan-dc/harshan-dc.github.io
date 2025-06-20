@@ -25,20 +25,26 @@ body {
 section {
   float: left;
   width: 50%;
+  background-color: #ffffff;
 }
 
 aside {
   float: left;
   width: 30%;
+  background-color: #f2f2f2;
 }
 
 nav {
   float: left;
   width: 20%;
+  background-color: #ddd;
 }
 
 footer {
   clear: both;
+  background-color: #a66;
+  color: white;
+  text-align: center;
 }
 
 header, section, aside, nav, footer {
@@ -52,4 +58,21 @@ header, footer {
   border-bottom: 5px solid #a66;
 }
 
-/* WRITE YOUR CODE BELOW HERE */
+header {
+  background-color: #ffe6e6;
+}
+
+/* Links */
+a {
+  color: #a66;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 20px;
+}
