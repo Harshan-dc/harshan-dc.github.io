@@ -1,3 +1,17 @@
+/*
+Name: Harshan Jayakumar
+File: style.css
+Date: 19 June 2025
+
+- Styled the h1 with hotpink color and dotted purple border
+- Made h2 italic
+- Styled .job-title with grey color and bold text
+- Styled the contact <ul> with background color, purple border, and padding
+- Added hover effect to links turning them green
+
+Course: INFT1206 */
+
+
 /* Set the base font for the page */
 body {
   font-family: Arial, Helvetica, sans-serif;
