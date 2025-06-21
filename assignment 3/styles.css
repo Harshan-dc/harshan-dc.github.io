@@ -1,3 +1,14 @@
+/*
+Name: Harshan Jayakumar  
+File: styles.css
+Date: 19 June 2025  
+
+Part-4 This stylesheet applies layout and styling to the blog page using Flexbox, Grid, float, and sticky positioning. 
+It makes the layout responsive, wraps text around the article image, and places the photos in a clean 2-column grid—all according to the lectures and MDN tutorial.
+
+Course code: INFT 1206
+*/
+
 body {
     background-color: #fff;
     color: #333;
